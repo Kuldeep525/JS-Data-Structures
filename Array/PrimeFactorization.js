@@ -1,3 +1,6 @@
+//Problem 3. Extend the Prime Factorization Program to store all the Prime Factors of 
+
+number n into an array and finally display the output.
 const prompt = require('prompt-sync')();
 let isPrime = 0 ; 
 let arrayOfPrimeNumber = [];
